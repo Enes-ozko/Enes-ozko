@@ -8,8 +8,11 @@ With a strong foundation in programming, I am fully dedicated to **Artificial In
 - 🎯 Goal: to apply my AI skills to solve real-world industrial challenges.
 - 👯 Open to collaborations on: Innovative Machine Learning projects.
 - 📫 How to reach me: www.linkedin.com/in/enes-ozkosar
-
-### 📊 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-ozko&layout=compact&theme=radical)
-
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
