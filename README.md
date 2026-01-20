@@ -6,9 +6,8 @@ With a strong foundation in programming, I am fully dedicated to **Artificial In
 - 🔭 Currently working on: **Computer Vision** projects and Engineering curriculum at ENSISA.
 - 🛠️ Tech Stack: developing with **PyTorch**, **TensorFlow**, and **Python** for complex data processing.
 - 🎯 Goal: to apply my AI skills to solve real-world industrial challenges.
-- 👯 Open to collaborations on: Innovative Machine Learning projects and Hackathons.
-- 📫 How to reach me: [Insère ton lien LinkedIn ici]
-- ⚡ Fun fact: I push my **MacBook Air M1** to its limits training models.
+- 👯 Open to collaborations on: Innovative Machine Learning projects.
+- 📫 How to reach me: www.linkedin.com/in/enes-ozkosar
 
 ### 📊 GitHub Stats:
 
